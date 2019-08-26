@@ -1,5 +1,7 @@
 # useful-ios-resources
 
+<p align="center"><img src="https://user-images.githubusercontent.com/42358392/63706413-03dc3e00-c838-11e9-9920-795617a4c7e4.png"></p>
+
 ## Description
 My list of resources, that I found useful while learning iOS development
 
